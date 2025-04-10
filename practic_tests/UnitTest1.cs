@@ -170,7 +170,7 @@ public class Tests
 
         Assert.That(
             _driver.FindElements(By.XPath($"//a[text()='{name}']")).Count == 0,
-            "Мероприятие не появилось в списке");
+            "Мероприятие не было удалено");
     }
 
     [TearDown]
