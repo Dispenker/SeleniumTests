@@ -102,3 +102,4 @@ D:\Projects\KonturCourse\Selenium\practic_tests\bin\Debug\net9.0\selenium-manage
 D:\Projects\KonturCourse\Selenium\practic_tests\bin\Debug\net9.0\selenium-manager\windows\selenium-manager.exe
 D:\Projects\KonturCourse\Selenium\practic_tests\bin\Debug\net9.0\WebDriver.dll
 D:\Projects\KonturCourse\Selenium\practic_tests\bin\Debug\net9.0\SeleniumExtras.WaitHelpers.dll
+D:\Projects\KonturCourse\Selenium\practic_tests\obj\Debug\net9.0\practic_tests.sourcelink.json
